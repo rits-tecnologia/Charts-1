@@ -1,6 +1,6 @@
 {
-    "name": "consoletvs/charts",
-    "description": "The laravel charting package",
+    "name": "rits-tecnologia/LaraCharts",
+    "description": "Modification of 'consoleTVs/Charts' with plugins use support",
     "license": "MIT",
     "type": "library",
     "require": {
